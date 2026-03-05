@@ -191,7 +191,7 @@ Raw ECG Signal (MIT-BIH, 48 records)
 ![Precision Recall](Fig7_Precision_Recall.png)
 
 ### Fig. 7 — STFT Spectogram data examples
-
+![stft data](stft_spectrogram_examples.png.jpeg)
 
 ---
 
