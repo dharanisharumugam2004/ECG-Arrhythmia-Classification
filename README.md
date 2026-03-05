@@ -187,6 +187,12 @@ Raw ECG Signal (MIT-BIH, 48 records)
 ### Fig. 7 — Per-Class Precision and Recall
 ![Precision Recall](Fig7_Precision_Recall.png)
 
+### Fig. 7 — Per-Class Precision and Recall
+![Precision Recall](Fig7_Precision_Recall.png)
+
+### Fig. 7 — STFT Spectogram data examples
+
+
 ---
 
 ## 🛠️ Installation
